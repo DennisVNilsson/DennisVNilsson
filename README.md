@@ -2,7 +2,7 @@
 
 📫 Reach out to me through Github or LinkedIn - https://www.linkedin.com/in/dennisnilssonvilhelm/ 
 
-_[Note that most repositorys involving school related course work is private due to constraints of plagarism]__
+_[Note that most repositorys involving school related course work is private due to constraints of plagarism]_
 
 <!--
 **DennisVNilsson/DennisVNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
