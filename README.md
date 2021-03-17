@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Dennis, a Computer Science Engineering student with a graduation data of June 2025.  
+### 👋 Hello, I'm Dennis, a Computer Science Engineering student with a graduation date of June 2025.  
 
 📫 Reach out to me through Github or LinkedIn - https://www.linkedin.com/in/dennisnilssonvilhelm/ 
 
