@@ -2,6 +2,8 @@
 
 📫 Reach out to me through Github or LinkedIn - https://www.linkedin.com/in/dennisnilssonvilhelm/ 
 
+⚡ Recently finished the course data structures and algorithms for Java. Implemented Binary Search Tree, Single and Double Linked List, Open and Closed HashMaps, and       others alike. 
+
 _[Note that most repositorys involving school related course work is private due to constraints of plagarism]_
 
 <!--
