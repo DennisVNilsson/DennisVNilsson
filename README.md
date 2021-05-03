@@ -2,6 +2,8 @@
 
 📫 Reach out to me through Github or LinkedIn - https://www.linkedin.com/in/dennisnilssonvilhelm/ 
 
+🔭 I’m currently working on the project 'Chess Visulization and Analysis', which foremost aims to visualize move tendencies for chss960, in camparison to normal variant chess. Utilizing Lichess open database, pandas and seaborn libraries, and Jupyter notebook. 
+
 _[Note that most repositorys involving school related course work is private due to constraints of plagarism]_
 
 <!--
