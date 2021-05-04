@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2): Where I aim to visualize aspects of the variation chess960, primarily: move tendencies for opening play varying by initial piece placement and where takes occur by piece.
 
-- 📫 How to reach me: **dennis.vilhelm@outlook.com** or [Go to Real Cool Heading section](https://www.linkedin.com/in/dennisnilssonvilhelm/)
+- 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/dennisnilssonvilhelm/) or **dennis.vilhelm@outlook.com** 
 </p>
 
 
