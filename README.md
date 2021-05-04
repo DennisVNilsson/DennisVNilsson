@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hello, I'm Dennis</h1>
+<h1 align="center">👋 Hello, I'm <a href="https://www.linkedin.com/in/dennisnilssonvilhelm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Dennis" height="30" width="40" /></a>
+</p></h1>
 <h3 align="center">A Computer Science Engineering student with a graduation date of June 2025.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisvnilsson&label=Profile%20views&color=0e75b6&style=flat" alt="dennisvnilsson" /> </p>
