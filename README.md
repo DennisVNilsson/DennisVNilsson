@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hello, I'm Dennis</h1>
 <h3 align="center">A Computer Science Engineering student with a graduation date of June 2025.</h3>
 
-@settings {
-  font-size: 16;
-}
-- 🔭 I’m currently working on [Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2): Where I aim to visualize aspects of the variation chess960, primarily: move tendencies for opening play varying by initial piece placement and where takes occur by piece.
 
-- 📫 Reach out to me trough [Linked-In](https://www.linkedin.com/in/dennisnilssonvilhelm/) or **dennis.vilhelm@outlook.com** 
+<h4 align="left"> - 🔭 I’m currently working on [Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2): Where I aim to visualize aspects of the variation chess960, primarily: move tendencies for opening play varying by initial piece placement and where takes occur by piece. </h4>
+
+<h4 align="left">- 📫 Reach out to me trough [Linked-In](https://www.linkedin.com/in/dennisnilssonvilhelm/) or **dennis.vilhelm@outlook.com** </h4>
 </p>
 
 
