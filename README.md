@@ -5,9 +5,10 @@
 
 [Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2) <h4 align="left"> - Is what I’m currently working on, where I aim to visualize aspects of the variation chess960, primarily: move tendencies for opening play varying by initial piece placement and where takes occur by piece. </h4>
 
-[Linked-In](https://www.linkedin.com/in/dennisnilssonvilhelm/) <h4 align="left">- Reach out to me trough Linked-In or **dennis.vilhelm@outlook.com** </h4>
+<div class="badge-base LI-profile-badge" data-locale="sv_SE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dennisnilssonvilhelm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/dennisnilssonvilhelm?trk=profile-badge">Dennis N.</a></div> <h4 align="left">- Reach out to me trough Linked-In or **dennis.vilhelm@outlook.com** </h4>
 </p>
 
+              
 
 ### 🛠 &nbsp;Languages and Tools
 
