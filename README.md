@@ -9,7 +9,7 @@
 </p>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
