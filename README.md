@@ -6,7 +6,7 @@
 [Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2) <h4 align="left"> - Is what I’m currently working on, where I aim to visualize aspects of the variation chess960, primarily: move tendencies for opening play varying by initial piece placement and where takes occur by piece. </h4>
 
 
-- Reach out to me trough Linked-In: </h4></p>
+ <h4> Reach out to me trough Linked-In </h4>
 
 <a href="https://www.linkedin.com/in/dennisnilssonvilhelm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <h4 align="left">
               
