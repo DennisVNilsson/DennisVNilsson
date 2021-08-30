@@ -26,6 +26,7 @@ Want to get in touch?  - [LinkedIn](https://www.linkedin.com/in/dennisnilssonvil
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-05122A?style=flat&logo=IntelliJIDEA)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
 
 
 
