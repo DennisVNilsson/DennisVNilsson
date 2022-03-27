@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Dennis</h1>
-<h3 align="center">A Computer Science Engineering student with a graduation date of June 2025.</h3>
+<h3 align="center">A Physics Engineering student with a graduation date of June 2025.</h3>
 
  <br />
  <br />
