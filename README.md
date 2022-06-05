@@ -25,11 +25,11 @@
 
 
 
-
+<!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisvnilsson&label=Profile%20views&color=0e75b6&style=flat" alt="dennisvnilsson" /> </p>
 <a href="https://www.linkedin.com/in/dennisnilssonvilhelm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<!--
+
 **DennisVNilsson/DennisVNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
