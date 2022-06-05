@@ -4,9 +4,6 @@
  <br />
  <br />
   
-[Chess Visulization and Analysis](https://github.com/users/DennisVNilsson/projects/2) - Is what I’m currently working on, where I aim to visualize aspects of the variation chess960. More precisely move tendencies varying by initial piece placement and where takes occur by piece. Using Seaborn and Pandas these moves and takes could be counted and inputted into a dataframe in order to visualize them as a heatmap - a brighter colour indicating high activity on this square. </h4>
-
-Under [SSIB-Report](https://github.com/DennisVNilsson/SSIB-Report) our sientific report aiming to analyzing the efficiency of the methods sort, search, add, and remove in four data structures implementing Javas List interface. This project was done as a part of the course Evaluation of Software Systems at LTH. Also, the graphs, and all involving code, can be found at [SSIB-Project-Visulization](https://github.com/DennisVNilsson/SSIB-Project-Visulization). 
 
 Want to get in touch?  - [LinkedIn](https://www.linkedin.com/in/dennisnilssonvilhelm/)      
 
