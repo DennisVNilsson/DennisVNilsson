@@ -1,45 +1,33 @@
-<h1 align="center">👋 Hello, I'm Dennis</h1>
-<h3 align="center"></h3>
+# Dennis Nilsson
 
+Engineer of light and code. MSc Engineering Physics · Photonics · Lund University
 
+[LinkedIn](https://www.linkedin.com/in/dennisnilssonvilhelm/) &nbsp;·&nbsp; dennisvilhelmnilsson@gmail.com
 
-### Want to get in touch?  - [LinkedIn](https://www.linkedin.com/in/dennisnilssonvilhelm/)      
+---
 
-### 🛠 &nbsp;Languages and Tools
+## Tools & Languages
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
-![Clojure](https://img.shields.io/badge/-Clojure-05122A?style=flat&logo=Clojure)&nbsp;
+**Languages**
+`Python` `MATLAB` `C++` `Java`
 
+**Environment**
+`Linux` `Bash` `Vim` `Git`
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-05122A?style=flat&logo=IntelliJIDEA)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
+**Areas**
+`Numerical modelling` `Optical systems` `Simulation` `Signal processing`
 
+---
 
+## Background
 
-<!--
+- 🎓 MSc Engineering Physics, specialisation in **photonics & theoretical physics**
+- 🔬 Thesis: electron-ion entanglement in strong fields, attosecond pulse dynamics
+- 🧑‍🏫 Trained 220+ SI leaders at Lund University
+- 🛠 Built and delivered programming courses (Python, Lua, C#, Unity) at CGI
+- 📸 Photographer @ [IYPT 2025](https://iypt.org/)
+- ✏️ Board member & auditor @ [Mattecentrum](https://www.mattecentrum.se/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisvnilsson&label=Profile%20views&color=0e75b6&style=flat" alt="dennisvnilsson" /> </p>
-<a href="https://www.linkedin.com/in/dennisnilssonvilhelm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+---
 
-**DennisVNilsson/DennisVNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Currently looking to contribute to next-generation camera systems.*
