@@ -23,11 +23,6 @@ Engineer of light and code. MSc Engineering Physics · Photonics · Lund Univers
 
 - 🎓 MSc Engineering Physics, specialisation in **photonics & theoretical physics**
 - 🔬 Thesis: electron-ion entanglement in strong fields, attosecond pulse dynamics
-- 🧑‍🏫 Trained 220+ SI leaders at Lund University
 - 🛠 Built and delivered programming courses (Python, Lua, C#, Unity) at CGI
 - 📸 Photographer @ [IYPT 2025](https://iypt.org/)
 - ✏️ Board member & auditor @ [Mattecentrum](https://www.mattecentrum.se/)
-
----
-
-*Currently looking to contribute to next-generation camera systems.*
